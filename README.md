@@ -1,6 +1,6 @@
 # PremierTest
 
-J'ai écrit plusieurd indtructions :
+J'ai écrit plusieurs instructions :
 - la première,
 - la deuxième
 
